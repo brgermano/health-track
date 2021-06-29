@@ -1,0 +1,25 @@
+.login-title {
+  font-size: 5em;
+  font-weight: bold;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  text-align: center;
+}
+
+.login-label {
+  font-size: 2em;
+  margin-bottom: 7px;
+}
+
+.login-input {
+  font-size: 1.2em;
+}
+
+.login-actions {
+  font-size: 1.3em;
+  margin-top: 5%;
+}
+
+.login-create {
+  text-align: right;
+}

@@ -1,0 +1,17 @@
+.peso-top-container {
+  background: #f7f7f7;
+  padding: 2%;
+  font-weight: 500;
+  text-align: center;
+}
+
+.peso-list-container {
+  border-top: 1px solid black;
+  padding: 2%;
+  font-weight: 500;
+  text-align: center;
+}
+
+.peso-container div.peso-list-container:last-child {
+  border-bottom: 1px solid black;
+}

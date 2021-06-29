@@ -1,0 +1,22 @@
+.clean-link {
+  color: #212529;
+  text-decoration: none;
+}
+
+.clean-link:hover {
+  color: #212529;
+}
+
+.main-button {
+  background: #C4C4C4;
+  bottom: 0;
+  font-size: 2em;
+  padding: 1%;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.row {
+  width: 100%;
+}

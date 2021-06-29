@@ -1,0 +1,15 @@
+.home-link {
+  background: #E7E7E7;
+  border-radius: 10px;
+  color: #000;
+  font-size: 2.5em;
+  margin-top: 20%;
+  padding: 10% 0;
+  text-align: center;
+}
+
+.home-link:hover {
+  background: #c2c2c2;
+  transition: 0.5s;
+  cursor: pointer;
+}
